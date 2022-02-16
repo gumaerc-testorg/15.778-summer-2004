@@ -7,8 +7,12 @@ description: 'Topics covered in these notes include structure induces behavior, 
 
   parties involved (or impacted by the proposal), resistance from parties involved
   based on following issues, wand hat Barilla did to overcome obstacles (Spa (B) Case).'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-778-management-of-supply-networks-for-products-and-services-summer-2004/53b0a649cfe3c1d8630c688c490860f5_keytakeways_5.pdf
+file: /media/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/53b0a649cfe3c1d8630c688c490860f5_keytakeways_5.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: keytakeways_5.pdf
 uid: 53b0a649-cfe3-c1d8-630c-688c490860f5

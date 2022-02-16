@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Slides for the group project presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-778-management-of-supply-networks-for-products-and-services-summer-2004/f923c637c167dd033f007fe2c98b029c_ups_temp_8_25_04.pdf
+file: /media/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/f923c637c167dd033f007fe2c98b029c_ups_temp_8_25_04.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ups_temp_8_25_04.pdf
 uid: f923c637-c167-dd03-3f00-7fe2c98b029c
