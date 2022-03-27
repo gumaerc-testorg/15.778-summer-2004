@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5a6bfede-29a6-2098-4e42-00c582403245
 resourcetype: Document
 title: lec13_aug101.pdf
 uid: abe8d01b-1c90-d70c-c11d-b9e13f6d397d

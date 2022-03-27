@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5a6bfede-29a6-2098-4e42-00c582403245
 resourcetype: Document
 title: lec8_july301.pdf
 uid: 37808c97-845a-80a2-015e-e1ece271bd23

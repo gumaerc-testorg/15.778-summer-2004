@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 90459aa8-d851-1315-8537-367a05db5c8d
 resourcetype: Document
 title: ritz_carlton.pdf
 uid: 5f7d9c3c-440e-e416-750e-25b960a4f202

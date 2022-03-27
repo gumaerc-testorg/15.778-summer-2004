@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5a6bfede-29a6-2098-4e42-00c582403245
 resourcetype: Document
 title: lec1_july201.pdf
 uid: 782e9932-c1c1-4eba-9ebb-e43bddb690f0

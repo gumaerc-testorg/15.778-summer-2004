@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a2693337-2dde-eaca-cc91-e745ab9404a8
 resourcetype: Document
 title: ups_temp_8_25_04.pdf
 uid: f923c637-c167-dd03-3f00-7fe2c98b029c

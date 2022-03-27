@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a2693337-2dde-eaca-cc91-e745ab9404a8
 resourcetype: Document
 title: keytakeaways_2.pdf
 uid: ebf4c2cf-2176-a148-e700-3d494f9f5297

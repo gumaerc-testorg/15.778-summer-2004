@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a2693337-2dde-eaca-cc91-e745ab9404a8
 resourcetype: Document
 title: keytakeaways_4.pdf
 uid: 567d7a51-77b1-90e7-ce3f-c903211fd33f

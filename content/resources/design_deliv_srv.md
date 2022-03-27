@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a2693337-2dde-eaca-cc91-e745ab9404a8
 resourcetype: Document
 title: design_deliv_srv.pdf
 uid: e49ea68a-63a0-e693-33ff-2c9da10abb9f

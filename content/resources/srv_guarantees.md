@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 90459aa8-d851-1315-8537-367a05db5c8d
 resourcetype: Document
 title: srv_guarantees.pdf
 uid: 981b77d4-9499-d41a-b7ce-e9ffa98a3c3d

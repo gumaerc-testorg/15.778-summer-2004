@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 5d0b5e9b-f9cb-7884-18e6-140749a28a5f
 resourcetype: Document
 title: syllabus.pdf
 uid: 74dba31a-f121-7b15-3d5d-8ad7912f578d

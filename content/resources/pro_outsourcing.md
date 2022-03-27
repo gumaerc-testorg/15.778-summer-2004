@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 90459aa8-d851-1315-8537-367a05db5c8d
 resourcetype: Document
 title: pro_outsourcing.pdf
 uid: 00ace833-6484-ff78-f912-64adbf8b7543

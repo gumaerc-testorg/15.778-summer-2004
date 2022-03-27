@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 90459aa8-d851-1315-8537-367a05db5c8d
 resourcetype: Document
 title: british_airways.pdf
 uid: 18a7a6ca-cd94-3619-c995-ff09de7c0c2d
