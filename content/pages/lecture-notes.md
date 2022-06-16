@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Supply Networks: Supply Chain Management ([PDF]({{< baseurl >}}/resources/lec1_july201))
+Introduction to Supply Networks: Supply Chain Management ({{% resource_link 782e9932-c1c1-4eba-9ebb-e43bddb690f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Introduction to Supply Networks: Supply Chain Management ([PDF]({{< baseurl >}}/
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Supply Chain Management: Logistics ([PDF]({{< baseurl >}}/resources/lec2_july211))
+Supply Chain Management: Logistics ({{% resource_link 4eabdb0e-fec7-c21d-0d21-d9e7dd69e527 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Supply Chain Management: Logistics ([PDF]({{< baseurl >}}/resources/lec2_july211
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Service Vision and Characteristics ([PDF]({{< baseurl >}}/resources/lec3_july221))
+Service Vision and Characteristics ({{% resource_link 5c2f0413-0987-614e-2a73-c59ca99e18f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Service Vision and Characteristics ([PDF]({{< baseurl >}}/resources/lec3_july221
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Service Encounter and Guarantees ([PDF]({{< baseurl >}}/resources/lec4_july231))
+Service Encounter and Guarantees ({{% resource_link eea203bf-c25a-3cde-041d-ac68cab3fac1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Service Encounter and Guarantees ([PDF]({{< baseurl >}}/resources/lec4_july231))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Customer Satisfaction ([PDF]({{< baseurl >}}/resources/lec5_july261))
+Customer Satisfaction ({{% resource_link 5e9c5143-7b8a-388c-945c-84f454e452ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Customer Satisfaction ([PDF]({{< baseurl >}}/resources/lec5_july261))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Customer Retention and Loyalty ([PDF]({{< baseurl >}}/resources/lec6_july2711))
+Customer Retention and Loyalty ({{% resource_link b029fc35-8e21-7b5f-3b57-8e6b6940fa7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Customer Retention and Loyalty ([PDF]({{< baseurl >}}/resources/lec6_july2711))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Creating and Sustaining Excellence ([PDF]({{< baseurl >}}/resources/lec7_july291))
+Creating and Sustaining Excellence ({{% resource_link 6004c1a1-4e2f-a127-4fb3-c19453c00f56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Creating and Sustaining Excellence ([PDF]({{< baseurl >}}/resources/lec7_july291
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Matching Supply and Demand: Tug of War ([PDF]({{< baseurl >}}/resources/lec8_july301))
+Matching Supply and Demand: Tug of War ({{% resource_link 37808c97-845a-80a2-015e-e1ece271bd23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Introducing a New Service in a Distributed Environment
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Introducing a New Service in a Distributed Environment (cont.) ([PDF]({{< baseurl >}}/resources/lec11_aug41))
+Introducing a New Service in a Distributed Environment (cont.) ({{% resource_link a44bc525-94e7-818d-80b0-f80952d27a35 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ Introducing a New Service in a Distributed Environment (cont.) ([PDF]({{< baseur
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Matching Supply and Demand: Procurement and Outsourcing ([PDF]({{< baseurl >}}/resources/lec12_aug91))
+Matching Supply and Demand: Procurement and Outsourcing ({{% resource_link a2ef620c-92b5-12ca-3199-b98da4daa41a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Matching Supply and Demand: Procurement and Outsourcing ([PDF]({{< baseurl >}}/r
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Matching Supply and Demand: Managing the Interface - Call Centers ([PDF]({{< baseurl >}}/resources/lec13_aug101))
+Matching Supply and Demand: Managing the Interface - Call Centers ({{% resource_link abe8d01b-1c90-d70c-c11d-b9e13f6d397d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ Supply Chain Management: Road-mapping and Value Chain Design
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Supply Chain Management: Value of Information ([PDF]({{< baseurl >}}/resources/lec16_aug161))
+Supply Chain Management: Value of Information ({{% resource_link 3c4d21bb-da0c-ec4d-2a47-c2cd459f7bda "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +179,7 @@ Information Technology Services: Internal Organization, Supplier Management, and
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Supply Chain Governance: UPS Project ([PDF]({{< baseurl >}}/resources/lec18_aug191))
+Supply Chain Governance: UPS Project ({{% resource_link f6a625fb-7fc7-3626-4fc6-651df03c47c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +197,7 @@ Supply Chain Management: International Issues
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Course Summary and Wrap-up ([PDF]({{< baseurl >}}/resources/lec20_aug231))
+Course Summary and Wrap-up ({{% resource_link efb9be33-b1b6-2330-808c-478eb17f6e3c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for a brief writing assignment.
-file: /media/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/981b77d49499d41ab7cee9ffa98a3c3d_srv_guarantees.pdf
+file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/981b77d49499d41ab7cee9ffa98a3c3d_srv_guarantees.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: srv_guarantees.pdf
 uid: 981b77d4-9499-d41a-b7ce-e9ffa98a3c3d
 ---
+Instructions and guidelines for a brief writing assignment.
+
