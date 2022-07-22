@@ -5,6 +5,7 @@ file: /courses/15-778-management-of-supply-networks-for-products-and-services-su
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pro_outsourcing.pdf
 uid: 00ace833-6484-ff78-f912-64adbf8b7543
 ---
 Guidelines and instructions for a brief research and writing assignment.
-

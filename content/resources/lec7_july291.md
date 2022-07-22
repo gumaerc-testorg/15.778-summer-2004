@@ -5,6 +5,7 @@ file: /courses/15-778-management-of-supply-networks-for-products-and-services-su
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec7_july291.pdf
 uid: 6004c1a1-4e2f-a127-4fb3-c19453c00f56
 ---
 Lecture notes and outline.
-
