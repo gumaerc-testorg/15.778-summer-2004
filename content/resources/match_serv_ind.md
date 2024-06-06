@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains slides for a presentation.
 file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/8d116e38b6ee50990f4ead17b07e0bac_match_serv_ind.pdf
+file_size: 124252
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
