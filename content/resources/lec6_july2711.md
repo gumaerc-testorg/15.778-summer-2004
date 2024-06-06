@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes and outline.
 file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/b029fc358e217b5f3b578e6b6940fa7b_lec6_july2711.pdf
+file_size: 99498
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

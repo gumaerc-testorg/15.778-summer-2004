@@ -5,6 +5,7 @@ description: Topics covered in these notes include strategy and segmentation, co
   diamond), characteristics are prevalent in services, and fundamental attributes
   of services.
 file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/70aaf44f08bbbf866c87315637ddd7b4_keytakeaways_1.pdf
+file_size: 253713
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
