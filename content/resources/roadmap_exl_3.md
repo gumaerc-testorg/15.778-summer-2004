@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for a presentation.
 file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/468f714c584ea836dd0e0a6daa2a71af_roadmap_exl_3.pdf
+file_size: 509463
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
