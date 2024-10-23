@@ -3,7 +3,7 @@ content_type: resource
 description: This assignment includes a case study which talks about background, problem,
   objectives behind caress, efficacy of caress, integration of IS and HR systems,
   leveraging caress, and recommendations.
-file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/18a7a6cacd943619c995ff09de7c0c2d_british_airways.pdf
+file: /ol-ocw-studio-app/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/18a7a6cacd943619c995ff09de7c0c2d_british_airways.pdf
 file_size: 694799
 file_type: application/pdf
 learning_resource_types:
