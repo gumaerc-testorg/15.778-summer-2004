@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the course introduction and curriculum.
-file: /ol-ocw-studio-app/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/74dba31af1217b153d5d8ad7912f578d_syllabus.pdf
+file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/74dba31af1217b153d5d8ad7912f578d_syllabus.pdf
 file_size: 140533
 file_type: application/pdf
 learning_resource_types: []
