@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes and outline.
-file: /ol-ocw-studio-app/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/782e9932c1c14eba9ebbe43bddb690f0_lec1_july201.pdf
+file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/782e9932c1c14eba9ebbe43bddb690f0_lec1_july201.pdf
 file_size: 224263
 file_type: application/pdf
 learning_resource_types:
