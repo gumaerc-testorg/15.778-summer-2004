@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for a brief writing assignment.
-file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/981b77d49499d41ab7cee9ffa98a3c3d_srv_guarantees.pdf
+file: /ol-ocw-studio-app/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/981b77d49499d41ab7cee9ffa98a3c3d_srv_guarantees.pdf
 file_size: 88046
 file_type: application/pdf
 learning_resource_types:
