@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for a presentation.
-file: /courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/ce81ab397c4d82ad4471b6bedcd1d5c5_roadmap_excel_1.pdf
+file: /ol-ocw-studio-app/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/ce81ab397c4d82ad4471b6bedcd1d5c5_roadmap_excel_1.pdf
 file_size: 156152
 file_type: application/pdf
 learning_resource_types: []
