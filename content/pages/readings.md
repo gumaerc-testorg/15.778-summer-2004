@@ -286,7 +286,7 @@ Bitran, Gabriel, and Denis De Graeve. "Framework for the Governance in the Suppl
 
 _Suggested Readings_
 
-Ulrich, William. "[System Transformation: Revolutionalizing Supply Chain Management through Holistic Governance Structures](http://www.systemtransformation.com/Org_Transformation_Articles/org_supply.htm)." 2004.
+Ulrich, William. "{{% resource_link "d2fce205-fd94-4687-865a-9d886f0e6ba1" "System Transformation: Revolutionalizing Supply Chain Management through Holistic Governance Structures" %}}." 2004.
 
 Oliver, Keith, Anne Chung, and Nick Samanich. "Beyond Utopia: The Realist's Guide to Internet-Enabled Supply Chain Management." _Strategy+Business_, no. 23. Booz-Allen publication (May 2001): 1-10.
 
